@@ -14,6 +14,7 @@ class Dog
       if @name == name 
       puts name
     end 
+    end 
   end 
   
   def self.clear_all
