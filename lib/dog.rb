@@ -10,7 +10,6 @@ class Dog
     @@all << self 
   end  
   def self.all
-  binding.pry 
     puts @@all 
   end 
   
