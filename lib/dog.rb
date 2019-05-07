@@ -3,7 +3,7 @@ class Dog
   
   def initialize
     @@all << self 
-    
+  end  
   def self.all
     @@all
     puts @@all 
