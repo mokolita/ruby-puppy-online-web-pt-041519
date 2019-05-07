@@ -15,6 +15,7 @@ class Dog
       if self.name != nil 
       puts name 
     end 
+    end 
   end 
   
   def self.clear_all
