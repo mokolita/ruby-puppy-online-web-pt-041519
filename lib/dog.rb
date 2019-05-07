@@ -22,3 +22,5 @@ class Dog
     @@all.clear 
   end
 end 
+
+fido = Dog.new(fido)
