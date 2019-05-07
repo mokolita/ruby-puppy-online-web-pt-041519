@@ -12,7 +12,7 @@ class Dog
   
   def self.all
     @@all.each do |name|
-      if @name.include?(name) 
+      if @name == name
       puts name 
     end 
     end 
